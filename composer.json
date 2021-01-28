@@ -9,7 +9,7 @@
     }
   ],
   "require": {
-    "php": "^8.1",
+    "php": "^7.2|^8.0",
     "php-di-definitions/dummy": "^1.0",
     "wyrihaximus/get-in-packages-composer.jason": "^1.0"
   },
