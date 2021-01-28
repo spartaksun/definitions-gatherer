@@ -9,11 +9,11 @@
     }
   ],
   "require": {
-    "php": "^7.2|^8.0",
-    "php-di-definitions/dummy": "^1.0",
-    "wyrihaximus/get-in-packages-composer.jason": "^1.0"
+    "php": "^8.0",
+    "spartaksun/get-in-packages-composer.jason": "^1.0"
   },
   "require-dev": {
+    "php-di-definitions/dummy": "",
     "api-clients/test-utilities": "^5.0"
   },
   "autoload": {
