@@ -13,7 +13,7 @@
     "spartaksun/get-in-packages-composer.jason": "^1.0"
   },
   "require-dev": {
-    "php-di-definitions/dummy": "",
+    "php-di-definitions/dummy": "^1.1.0",
     "api-clients/test-utilities": "^5.0"
   },
   "autoload": {
