@@ -12,7 +12,7 @@
 To install via [Composer](http://getcomposer.org/), use the command below, it will automatically detect the latest version and bind it with `^`.
 
 ```
-composer require php-di-definitions/definitions-gatherer
+composer require spartaksun/definitions-gatherer
 ```
 
 Gather definitions from files listed in `composer.json`.
